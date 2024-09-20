@@ -1,2 +1,2 @@
 # DIP
- Digital Image Processing ECE AUTH (8o Semester)
+ Digital Image Processing Projects 2023-24
