@@ -10,7 +10,7 @@ from global_hist_eq import get_equalization_transform_of_img
 
 # In the demo, I combine all the functions I created to generate the requested images and their corresponding histograms.
 
-filename = "C:\\python\\lesson04\\input_img.png"
+filename = "C:\\python\\dip_project_1\\input_img.png"
 img = Image.open(fp=filename)
 # Keep only the Luminance component of the image
 bw_img = img.convert("L")
@@ -69,18 +69,18 @@ for key in regions_dictionary:
 
 show_image_and_plot_histogram(equalized_img_wrong_adaptive, "Equalized image Histogram (Adaptive Wrong Equalization)", "Equalized Image")
 
-output_filename_global = "C:\\python\\lesson04\\equalized_img_global.png"
+output_filename_global = "C:\\python\\dip_project_1\\equalized_img_global.png"
 equalized_img_global = Image.fromarray(equalized_img_global)
 equalized_img_global.save(output_filename_global)
 
-output_filename_adaptive = "C:\\python\\lesson04\\equalized_img_adaptive.png"
+output_filename_adaptive = "C:\\python\\dip_project_1\\equalized_img_adaptive.png"
 equalized_img_adaptive = Image.fromarray(equalized_img_adaptive)
 equalized_img_adaptive.save(output_filename_adaptive)
 
-output_filename_wrong_adaptive = "C:\\python\\lesson04\\equalized_img_wrong_adaptive.png"
+output_filename_wrong_adaptive = "C:\\python\\dip_project_1\\equalized_img_wrong_adaptive.png"
 equalized_img_wrong_adaptive = Image.fromarray(equalized_img_wrong_adaptive)
 equalized_img_wrong_adaptive.save(output_filename_wrong_adaptive)
 
-output_filename_input_grayscale = "C:\\python\\lesson04\\input_img_grayscale.png"
+output_filename_input_grayscale = "C:\\python\\dip_project_1\\input_img_grayscale.png"
 img_array = Image.fromarray(img_array)
 img_array.save(output_filename_input_grayscale)
