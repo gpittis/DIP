@@ -1,5 +1,9 @@
 # DIP
  Digital Image Processing Projects 2023-24
 
- ## Project 1 - Image enhancement through histogram equalization
+ ## Project 1 
+ The project deals with image enhancement through histogram equalization. 
+ It implements: 
+ * Global Histogram Equalization
+ * Adaptive Histogram Equalization
  
