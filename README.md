@@ -7,8 +7,11 @@
  * Global Histogram Equalization :
    
    <img width="400" align="left" src="https://github.com/user-attachments/assets/10a3beed-eb98-4a39-9421-611017a42715" />
+
    
- * Adaptive Histogram Equalization :        <img width="400" align="center" src="https://github.com/user-attachments/assets/731e7ce3-79eb-4ff6-901f-da69e93d023e" /> 
+ * Adaptive Histogram Equalization :
+ 
+   <img width="400" align="center" src="https://github.com/user-attachments/assets/731e7ce3-79eb-4ff6-901f-da69e93d023e" /> 
 
  ## Project 2
  This project implements three algorithms: 
