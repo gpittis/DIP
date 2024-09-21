@@ -11,8 +11,8 @@
  ## Project 2
  This project implements three algorithms: 
 1. Hough Transform :                   <img width="400" align="center" src="https://github.com/user-attachments/assets/fabc71e5-1b7b-487e-ae92-2c2810832fa9" /> 
-2. Harris Corner Detector :            <img width="200" align="center" src="https://github.com/user-attachments/assets/0786e94c-2005-4446-ae5d-7eaf01e45680" /> 
-3. Rotation :                          <img width="200" align="center" src="https://github.com/user-attachments/assets/0786e94c-2005-4446-ae5d-7eaf01e45680" /> 
+2. Harris Corner Detector :            <img width="400" align="center" src="https://github.com/user-attachments/assets/87dab65d-d37c-4f82-86c6-0bea60feba6f" /> 
+3. Rotation :                          <img width="400" align="center" src="https://github.com/user-attachments/assets/0786e94c-2005-4446-ae5d-7eaf01e45680" /> 
 
 The Hough Transform consolidates the edges of a binary image, while the Harris Corner Detector identifies whether a pixel is located at a corner, edge, or in a uniform area. 
 The Rotation algorithm rotates the image counterclockwise. These methods facilitate the processing and extraction of features from images for further analysis.
