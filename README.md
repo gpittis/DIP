@@ -11,7 +11,7 @@
    
  * Adaptive Histogram Equalization :
  
-   <img width="400" align="center" src="https://github.com/user-attachments/assets/731e7ce3-79eb-4ff6-901f-da69e93d023e" /> 
+   <img width="400" align="left" src="https://github.com/user-attachments/assets/731e7ce3-79eb-4ff6-901f-da69e93d023e" /> 
 
  ## Project 2
  This project implements three algorithms: 
